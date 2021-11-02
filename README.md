@@ -31,7 +31,7 @@ Pokud nevíš, jak s Gitem a GitHubem pracovat, zeptej se nás na Slacku nebo se
 
 ## Instalace a spuštění
 
-1. I když ty sama jsi projekt nezakládala z nuly pomocí `create-czechitas-app`, projekt je vytvořený pomocí tohoto nástroje a používá se úplně stejně. Jen už v sobě obsahuje i nějaké další připravené podklady, jako obrázky a údaje o filmech.
+1. I když ty sama jsi projekt nezakládala z nuly pomocí `create-czechitas-app`, projekt je vytvořený pomocí tohoto nástroje a používá se úplně stejně. Jen už v sobě obsahuje i nějaké další připravené podklady - obrázky, HTML, CSS, apod..
 
 2. Otevři si v editoru složku projektu, kterou sis z GitHubu naklonovala k sobě na disk. Složka, kterou otevíráš, by měla obsahovat soubor `package.json` (a další soubory a složky).
 
@@ -43,7 +43,7 @@ Pokud nevíš, jak s Gitem a GitHubem pracovat, zeptej se nás na Slacku nebo se
 
 	Tím se ti do projektu doinstalují všechny potřebné balíčky závislostí stejně, jako kdybys projekt vytvářela/instalovala pomocí `create-czechitas-app`.
 
-4. Známým způsobem zkus projekt spustit. Měla bys vidět stránku, na které je ikonka kamery a text *V našem kině právě uvádíme*.
+4. Známým způsobem zkus projekt spustit. Měl by jít normálně zkompilovat a v prohlížeči by neměl v konzoli vyhodit žádnou chybu.
 
 
 
