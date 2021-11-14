@@ -1,0 +1,13 @@
+.energy-style {
+    background-color: #fff;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.energy-style:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

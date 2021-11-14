@@ -7,3 +7,14 @@
 html {
   font-family: 'Open Sans', sans-serif;
 }
+
+body {
+  margin: 0;
+}
+
+.container {
+  background-image: url("images/cozy-home.jpg");
+  height: 100vh;
+}
+
+
